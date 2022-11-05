@@ -1,0 +1,12 @@
+{
+  "name": "Introduction to Sociology",
+  "course_number": "SO101",
+  "school": "MVCC",
+  "semester": {
+    "season": "FA",
+    "year": 2021
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Covered basic sociological concepts and philosophers."
+}

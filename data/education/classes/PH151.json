@@ -1,0 +1,12 @@
+{
+  "name": "General Physics 1",
+  "course_number": "PH151",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2020
+  },
+  "credits": 4,
+  "grade": "A",
+  "description": "Algebra-based Physics 1"
+}

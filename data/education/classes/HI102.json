@@ -1,0 +1,12 @@
+{
+  "name": "History of Civilization 2",
+  "course_number": "HI102",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2022
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Covered history from the Reformation to the modern era."
+}

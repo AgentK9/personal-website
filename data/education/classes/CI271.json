@@ -1,0 +1,12 @@
+{
+  "name": "Database Design and Development",
+  "course_number": "CI271",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2022
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Learned about SQL and various database design principles."
+}

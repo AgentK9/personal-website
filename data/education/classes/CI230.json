@@ -1,0 +1,12 @@
+{
+  "name": "Data Structures",
+  "course_number": "CI230",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2022
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Concepts introduced included stacks, heaps, pointers, queues, etc."
+}

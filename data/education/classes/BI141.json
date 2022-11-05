@@ -1,0 +1,12 @@
+{
+  "name": "General Biology 1",
+  "course_number": "BI141",
+  "school": "MVCC",
+  "semester": {
+    "season": "FA",
+    "year": 2020
+  },
+  "credits": 4,
+  "grade": "A",
+  "description": "General Biology 1"
+}

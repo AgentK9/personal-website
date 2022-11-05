@@ -1,0 +1,12 @@
+{
+  "name": "Fitness Center",
+  "course_number": "PE154",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2019
+  },
+  "credits": 1,
+  "grade": "A",
+  "description": "Physical Education"
+}

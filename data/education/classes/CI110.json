@@ -1,0 +1,12 @@
+{
+  "name": "Principles of Programming",
+  "course_number": "CI110",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2019
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Basic Python"
+}

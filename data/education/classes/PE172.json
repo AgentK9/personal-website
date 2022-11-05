@@ -1,0 +1,12 @@
+{
+  "name": "Health and Wellness",
+  "course_number": "PE172",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2022
+  },
+  "credits": 2,
+  "grade": "A",
+  "description": "Learned about various ways to stay healthy and well."
+}

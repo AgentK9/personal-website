@@ -1,0 +1,12 @@
+{
+  "name": "Internet Security",
+  "course_number": "CI212",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2022
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Learned and applied various security principles, including the Zeus exploit, among others."
+}

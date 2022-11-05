@@ -1,0 +1,12 @@
+{
+  "name": "Engineering Physics 1",
+  "course_number": "PH261",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2021
+  },
+  "credits": 4,
+  "grade": "A",
+  "description": "Calc-based physics 1 (primarily kinematics)."
+}

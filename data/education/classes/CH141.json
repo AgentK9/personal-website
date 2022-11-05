@@ -1,0 +1,12 @@
+{
+  "name": "General Chemistry 1",
+  "course_number": "CH141",
+  "school": "MVCC",
+  "semester": {
+    "season": "FA",
+    "year": 2019
+  },
+  "credits": 4,
+  "grade": "A",
+  "description": "General Chemistry 1"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Survey of Economics",
+  "course_number": "BM101",
+  "school": "MVCC",
+  "semester": {
+    "season": "FA",
+    "year": 2019
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Intro to Economics"
+}

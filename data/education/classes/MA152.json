@@ -1,0 +1,12 @@
+{
+  "name": "Calculus 2",
+  "course_number": "MA152",
+  "school": "MVCC",
+  "semester": {
+    "season": "FA",
+    "year": 2020
+  },
+  "credits": 4,
+  "grade": "A",
+  "description": "Calculus 2"
+}

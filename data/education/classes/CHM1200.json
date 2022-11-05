@@ -1,0 +1,12 @@
+{
+  "name": "General Chemistry 2",
+  "course_number": "ITC2400",
+  "school": "NU",
+  "semester": {
+    "season": "FA",
+    "year": 2022
+  },
+  "credits": 4,
+  "grade": "IP",
+  "description": "General Chemistry 2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Discrete Mathematics",
+  "course_number": "MA275",
+  "school": "MVCC",
+  "semester": {
+    "season": "FA",
+    "year": 2021
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Discrete Mathematics"
+}

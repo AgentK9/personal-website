@@ -1,0 +1,12 @@
+{
+  "name": "Differential Equations",
+  "course_number": "MA260",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2021
+  },
+  "credits": 3,
+  "grade": "B",
+  "description": "Differential Equations"
+}

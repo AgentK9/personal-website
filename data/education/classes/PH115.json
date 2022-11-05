@@ -1,0 +1,12 @@
+{
+  "name": "Science of Multimedia",
+  "course_number": "PH115",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2020
+  },
+  "credits": 4,
+  "grade": "A",
+  "description": "Learned how to use multimedia tools (Adobe Premiere, etc.). Also learned about how those tools work."
+}

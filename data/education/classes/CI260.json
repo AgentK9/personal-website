@@ -1,0 +1,12 @@
+{
+  "name": "Microcomputer Programming",
+  "course_number": "CI260",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2021
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Assembly, including both ARM and x86 dialects."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Introduction to Chemistry",
+  "course_number": "CH111",
+  "school": "MVCC",
+  "semester": {
+    "season": "FA",
+    "year": 2018
+  },
+  "credits": 4,
+  "grade": "A",
+  "description": "Introduction to Chemistry"
+}

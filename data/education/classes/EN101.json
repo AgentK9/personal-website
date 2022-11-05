@@ -1,0 +1,12 @@
+{
+  "name": "English Composition",
+  "course_number": "EN101",
+  "school": "MVCC",
+  "semester": {
+    "season": "FA",
+    "year": 2019
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "English 101"
+}

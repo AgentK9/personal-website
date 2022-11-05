@@ -1,0 +1,12 @@
+{
+  "name": "Calculus 3",
+  "course_number": "MA253",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2021
+  },
+  "credits": 4,
+  "grade": "A",
+  "description": "Multivariable Calculus"
+}

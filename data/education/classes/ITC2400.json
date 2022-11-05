@@ -1,0 +1,12 @@
+{
+  "name": "Web and Mobile Development",
+  "course_number": "ITC2400",
+  "school": "NU",
+  "semester": {
+    "season": "FA",
+    "year": 2022
+  },
+  "credits": 3,
+  "grade": "IP",
+  "description": "Basic HTML and CSS development."
+}

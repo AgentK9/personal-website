@@ -1,0 +1,12 @@
+{
+  "name": "Java Programming",
+  "course_number": "CI245",
+  "school": "MVCC",
+  "semester": {
+    "season": "SP",
+    "year": 2021
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Covered JavaFX UI development, other basic Java programming concepts"
+}

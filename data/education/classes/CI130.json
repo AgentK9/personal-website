@@ -1,0 +1,12 @@
+{
+  "name": "Programming in C++",
+  "course_number": "CI130",
+  "school": "MVCC",
+  "semester": {
+    "season": "FA",
+    "year": 2019
+  },
+  "credits": 3,
+  "grade": "A",
+  "description": "Basic C++ programming concepts"
+}
