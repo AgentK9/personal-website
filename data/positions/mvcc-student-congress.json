@@ -1,0 +1,30 @@
+{
+  "name": "mvcc-student-congress",
+  "short-name": "MVCC SC",
+  "long-name": "Mohawk Valley Community College Student Congress",
+  "location": {
+    "city": "Utica",
+    "state": "NY"
+  },
+  "link": "https://mvcc.edu",
+  "titles": [
+    "Judiciary Commitee Member",
+    "Student Congress President"
+  ],
+  "periods": [
+    {
+      "begin": {
+        "month": "Jan",
+        "year": "2020"
+      },
+      "end": {
+        "month": "Dec",
+        "year": "2021"
+      }
+    }
+  ],
+  "duties": [
+    "Revised Constitution and By-laws as a member of the Judiciary Committee to close loopholes and define critical processes, advised committee as President",
+    "Implemented processes to allow for remote participation in Student Congress Meetings"
+  ]
+}

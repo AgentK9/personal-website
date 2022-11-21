@@ -1,0 +1,30 @@
+{
+  "name": "draper",
+  "short-name": "Draper",
+  "long-name": "Charles Stark Draper Laboratories",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA"
+  },
+  "link": "https://draper.com",
+  "titles": [
+    "Software Engineering Intern"
+  ],
+  "periods": [
+    {
+      "begin": {
+        "month": "Jan",
+        "year": "2022"
+      },
+      "end": "Present"
+    }
+  ],
+  "duties": [
+    "Co-architected and implemented back-end of an autonomous reverse engineering framework",
+    "Collaborated with other Reverse Engineering peers to develop automated analysis tasks",
+    "Developed skillsets to perform static program analysis for reverse engineering",
+    "Learned and implemented technologies related to containerization and virtualization",
+    "Automated packaging and deployment of complex full stack application",
+    "Developed templatable project to enable rapid development and integration of DevOps and security"
+  ]
+}

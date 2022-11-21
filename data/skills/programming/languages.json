@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Python",
+    "site": "https://python.org",
+    "level": 1
+  },
+  {
+    "name": "Java",
+    "site": "https://java.com",
+    "level": 1
+  },
+  {
+    "name": "JavaScript",
+    "site": "https://javascript.com",
+    "level": 1
+  },
+  {
+    "name": "SQL",
+    "site": "https://en.wikipedia.org/wiki/SQL",
+    "level": 1
+  },
+  {
+    "name": "Swift",
+    "site": "https://swift.org",
+    "level": 2
+  },
+  {
+    "name": "C++",
+    "site": "https://en.wikipedia.org/wiki/C%2B%2B",
+    "level": 2
+  },
+  {
+    "name": "C",
+    "site": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "level": 2
+  },
+  {
+    "name": "Rust",
+    "site": "https://www.rust-lang.org",
+    "level": 2
+  },
+  {
+    "name": "Bash",
+    "site": "https://www.gnu.org/software/bash/",
+    "level": 2
+  }
+]

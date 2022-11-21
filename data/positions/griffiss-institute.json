@@ -1,0 +1,42 @@
+{
+  "name": "griffiss-institute",
+  "short-name": "Griffiss Institute",
+  "long-name": "Griffiss Institute (in service of the Air Force Research Laboratory (AFRL)",
+  "location": {
+    "city": "Rome",
+    "state": "NY"
+  },
+  "link": "https://griffissinstitute.org",
+  "titles": [
+    "Software Engineering Intern",
+    "Data Science Intern"
+  ],
+  "periods": [
+    {
+      "begin": {
+        "month": "Jun",
+        "year": "2019"
+      },
+      "end": {
+        "month": "Aug",
+        "year": "2020"
+      }
+    },
+    {
+      "begin": {
+        "month": "Jun",
+        "year": "2020"
+      },
+      "end": {
+        "month": "Jan",
+        "year": "2021"
+      }
+    }
+  ],
+  "duties": [
+    "Updated ETL (Extract, Transform, Load) program suite, utilizing Python and Java",
+    "Designed and developed standalone Python-based PDF ETL suite from the ground up",
+    "Characterized various large bibliometric datasets from DTIC and WoS by size and sources",
+    "Web enabled existing tools using React, containerized them using hardened Docker Base Images"
+  ]
+}

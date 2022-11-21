@@ -1,0 +1,36 @@
+{
+  "name": "adeptus",
+  "short-name": "ACS",
+  "long-name": "Adeptus Cyber Solutions",
+  "location": {
+    "city": "Rome",
+    "state": "NY"
+  },
+  "link": "https://adeptuscybersolutions.com",
+  "titles": [
+    "Software Engineering Intern"
+  ],
+  "periods": [
+    {
+      "begin": {
+        "month": "Apr",
+        "year": "2021"
+      },
+      "end": {
+        "month": "Dec",
+        "year": "2021"
+      }
+    }
+  ],
+  "duties": [
+    {
+      "item": "Architected and implemented system enabling autonomous inter-quadcopter communication",
+      "links": [
+        "https://youtu.be/jg3FCuARUGs",
+        "https://news.unt.edu/news-releases/north-texas-team-tests-emerging-advanced-air-mobility-technology"
+      ]
+    },
+    "Improved JavaFX-based ground-station application for human interface to system",
+    "Simulated and helped perform physical tests of system"
+  ]
+}

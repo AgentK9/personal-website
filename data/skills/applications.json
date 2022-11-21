@@ -1,0 +1,27 @@
+[
+  {
+    "name": "JetBrains IDEs",
+    "site": "https://www.jetbrains.com",
+    "level": 1
+  },
+  {
+    "name": "Xcode",
+    "site": "https://developer.apple.com/xcode/",
+    "level": 2
+  },
+  {
+    "name": "VSCode",
+    "site": "https://vscode.dev",
+    "level": 1
+  },
+  {
+    "name": "SolidWorks",
+    "site": "https://www.solidworks.com",
+    "level": 1
+  },
+  {
+    "name": "Fusion 360",
+    "site": "https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription",
+    "level": 1
+  }
+]
